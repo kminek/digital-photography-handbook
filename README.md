@@ -6,8 +6,16 @@ Exposure triangle
 Aperture
 --------
 
+**Aperture** is the diameter of the entrance pupil of the lens through which light travels into the camera.
+
+<p align="center">
+	<img src="img/aperture.jpg" />
+</p>
+
 Shutter
 -------
+
+**Shutter speed** is the length of time the shutter is opened, exposing the camera sensor to light.
 
 ISO
 ---
