@@ -62,6 +62,3 @@ Histogram
 
 Exposure compensation
 ---------------------
-
-[TOC]
-
