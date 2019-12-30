@@ -12,6 +12,8 @@ Aperture
 	<img src="img/aperture.jpg" />
 </p>
 
+### Depth of field
+
 Shutter
 -------
 
@@ -22,6 +24,10 @@ Shutter
 The rule states that the shutter speed needs to be at least the inverse of focal length. For example, if shooting with a **50mm** lens, then shutter speed should be at at least **1/50** to eliminate shake. If shooting with a **100mm** lens, then shutter speed should be at least **1/100**.
 
 The reason being, the longer lens, the more exaggerated movement becomes when shooting handheld. Therefore, one need to shoot at faster shutter speeds in order to minimize movement so that the image doesn’t have any camera shake.
+
+<p align="center">
+	<img src="img/minimum_shutter_speeds_for_maximum_sharpness.png" />
+</p>
 
 ISO
 ---
@@ -46,3 +52,11 @@ Focusing modes
 | Automatic autofocus mode | AI Focus AF | AF-A  | In this mode, the camera’s focusing computer jumps back and forth between one shot and continuous focusing modes depending on the situation. This is the default autofocus mode on cameras that have this feature. |
 | Manual focusing          |             |       | In this mode focus is adjusted manually using focus ring on the lens. |
 
+Metering modes
+--------------
+
+Histogram
+---------
+
+Exposure compensation
+---------------------
