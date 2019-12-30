@@ -1,5 +1,7 @@
 # Digital Photography Handbook
 
+[TOC]
+
 Exposure triangle
 -----------------
 
@@ -60,3 +62,6 @@ Histogram
 
 Exposure compensation
 ---------------------
+
+[TOC]
+
