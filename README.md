@@ -2,19 +2,51 @@
 
 [TOC]
 
+Image sensor formats
+--------------------
+
+<p align="center">
+	<img src="img/image_sensors.png" />
+</p>
+
+| Type              | Aspect ratio | Width (mm) | Height (mm) | Diagonal (mm) | Crop factor |
+| ----------------- | ------------ | ---------- | ----------- | ------------- | ----------- |
+| 35MM (Full Frame) | 3:2          | 36         | 24          | 43,3          | 1,00        |
+| APS-H             | 3:2          | 28,7       | 19          | 34,42         | 1,3         |
+| APS-C             | 3:2          | 25,1       | 16,7        | 30,15         | 1,52        |
+| 4/3               | 4:3          | 17,3       | 13          | 21,64         | 2,00        |
+
+Big sensors:
+
+- are performing better in low-light conditions
+
+Small sensors:
+
+- have wider depth of field
+
 Exposure triangle
 -----------------
 
 Aperture
 --------
 
-**Aperture** is the diameter of the entrance pupil of the lens through which light travels into the camera.
+**Aperture** is the diameter of the entrance pupil of the lens through which light travels into the camera. Aperture is also called **f-stop** or **f-number**. Range of f-numbers depends on the lens you use.
 
 <p align="center">
 	<img src="img/aperture.jpg" />
 </p>
 
+Small number = large hole (a lot of light is passing)
+Big number = small hole (small amount of light is passing)
+
 ### Depth of field
+
+Aperture size controls the **depth of field**:
+
+| f-number                                  | depth of field                                               |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| narrow aperture = large f-number eg. f/22 | produce a greater depth of field, useful when you want front to back sharpness, for example in landscape work |
+| wide aperture = small f-number eg. f/1.4  | have the shallowest depth of field and can be used for creative effect, for example in portraits - subject stands out as sharply as possible against a blurred background |
 
 Shutter
 -------
@@ -30,6 +62,32 @@ The reason being, the longer lens, the more exaggerated movement becomes when sh
 <p align="center">
 	<img src="img/minimum_shutter_speeds_for_maximum_sharpness.png" />
 </p>
+
+Lenses
+------
+
+### Focal length
+
+Focal length, usually represented in millimeters (mm), is the basic description of a photographic lens. It is not a measurement of the actual length of a lens, but a calculation of an optical distance from the point where light rays converge to form a sharp image of an object to the digital sensor or 35mm film at the focal plane in the camera. The focal length of a lens is determined when the lens is focused at infinity.
+
+Lens focal length tells us the **angle of view** - how much of the scene will be captured and the **magnification** - how large individual elements will be. The longer the focal length, the narrower the angle of view and the higher the magnification. The shorter the focal length, the wider the angle of view and the lower the magnification.
+
+<p align="center">
+	<img src="img/focal_length.jpg" />
+</p>
+
+### Lens classifications
+
+| Type       | Description                | Benefits                                                     |
+| ---------- | -------------------------- | ------------------------------------------------------------ |
+| prime lens | have a fixed focal length  | Prime lenses tend to be more compact and lightweight than zoom lenses. Prime lenses also tend to have a larger maximum aperture (f/1.4 to f/2.8). This is an advantage when shooting in low light conditions as it will increase the possibility of hand holding the camera and freezing the subject without shake or blur caused by the longer exposures. Photographing using prime lenses with large apertures also means you can get a shallow depth of field which is useful for portraiture where you might want a bokeh. |
+| zoom lens  | have variable focal length | The advantage of a zoom lens is versatility. They are ideal when you are photographing a variety of subjects such as landscapes and portraits, and you just want one lens for both situations. Using a zoom lens also reduces the number of times you need to change the lens which saves time and limits the possibility of getting dust in the camera's mirror box or on the sensor. |
+
+### Lens speed (f-stop number)
+
+Lens speed refers to the amount of light that travels through the lens while the shutter is open. A lens’ speed is usually referred to by the size of the maximum aperture of the lens. This diameter is expressed as an f-number, such as f/2.8 or f/5.6.
+
+Example:  going from say f/4 to f/5.6 (or "stopping down one stop") means that only half as much light will be used to expose the images. To get the same exposure with an aperture of f/5. 6 you need to use a slower shutter speed than you would at f/4 to let in the same amount of light. So an f/4 lens is "faster" than an f/5.6 lens.
 
 ISO
 ---
@@ -62,3 +120,10 @@ Histogram
 
 Exposure compensation
 ---------------------
+
+How to set diopter?
+-------------------
+
+1. Put lens cap on
+2. Push shutter button half-way
+3. Adjust for the sharpest display of exposure settings display in the viewfinder
